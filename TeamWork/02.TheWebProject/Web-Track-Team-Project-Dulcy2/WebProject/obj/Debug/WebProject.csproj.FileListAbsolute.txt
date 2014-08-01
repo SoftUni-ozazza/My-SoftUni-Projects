@@ -1,0 +1,36 @@
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\TeamWork\02.TheWebProject\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\TeamWork\02.TheWebProject\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\TeamWork\02.TheWebProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\TeamWork\02.TheWebProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Me\SoftUni Nakov\000 Lectures\Homeworks\TeamWork\02.TheWebProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Users\Agop\Desktop\TeamProject\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Users\Agop\Desktop\TeamProject\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Users\Agop\Desktop\TeamProject\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Users\Agop\Desktop\TeamProject\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Users\Agop\Desktop\TeamProject\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Users\Agop\Desktop\TeamProgectNew\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Users\Agop\Desktop\TeamProgectNew\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Users\Agop\Desktop\TeamProgectNew\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Users\Agop\Desktop\TeamProgectNew\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Users\Agop\Desktop\TeamProgectNew\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Users\Agop\Desktop\new30\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Users\Agop\Desktop\new30\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Users\Agop\Desktop\new30\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Users\Agop\Desktop\new30\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Users\Agop\Desktop\new30\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Users\Agop\Desktop\team\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Users\Agop\Desktop\team\trunk\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Users\Agop\Desktop\team\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Users\Agop\Desktop\team\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Users\Agop\Desktop\team\trunk\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Me\tortGit-WebTrack-Project 2\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Me\tortGit-WebTrack-Project 2\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Me\tortGit-WebTrack-Project 2\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Me\tortGit-WebTrack-Project 2\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Me\tortGit-WebTrack-Project 2\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Me\tortGit-WebTrack-Project 2\Web-Track-Team-Project\WebProject\bin\WebProject.dll.config

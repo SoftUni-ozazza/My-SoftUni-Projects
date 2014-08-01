@@ -1,0 +1,55 @@
+﻿section#mainContainer div article {
+    margin: 1em 5em 2em;
+    padding: 1em 3em;
+}
+
+#mainContainer div article.center {
+    margin: 1em 0.2em 1em 1.5em;
+    width: 40%;
+    text-align: center;
+}
+
+    #mainContainer div article.center h2 {
+        text-shadow: 1px 0px 3px black;
+    }
+
+.video_div {
+    height: 350px;
+    z-index: 1;
+    overflow: hidden;
+    border: 1px solid #eee;
+}
+
+svg {
+    height: 355px;
+}
+
+    svg line {
+        stroke-width: 5;
+        stroke: #ff9c00;
+        fill: none;
+    }
+
+    svg circle {
+        stroke: #ff9c00;
+        fill: #ff9c00;
+    }
+
+video {
+    position: relative;
+    top: -316px;
+    width: 318px;
+    height: 235px;
+}
+
+/* ---> ---------------------------- floating ------- */
+
+.floating-wrapper {
+    overflow: hidden;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.float-left {
+    float: left;
+}
